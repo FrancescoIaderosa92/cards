@@ -50,6 +50,10 @@ html {
   min-width: 9em;
 }
 
+.cards div {
+  text-align: center;
+}
+
 .cards a {
   display: inline-block;
   padding: .5em .75em;
